@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
+  "name": "lazy-loading-routes-react-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "history": "^4.7.2",
     "node-sass-chokidar": "0.0.3",
